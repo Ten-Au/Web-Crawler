@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Web_Crawler": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.pja.edu.pl/"
+    },
+    "newProfile1": {
+      "commandName": "Executable",
+      "commandLineArgs": "https://www.pja.edu.pl/"
+    }
+  }
+}
